@@ -58,11 +58,11 @@ Detailed documentation and source code are available in the corresponding reposi
 
 | Project | Description | Skills Demonstrated |
 |----------|------------|-------------------|
-| [libft](https://github.com/yourusername/libft) | Custom implementation of essential C standard library functions, designed as a reusable foundation for future projects. | Memory Management, Data Structures, Modular Programming, C |
-| [ft_printf](https://github.com/yourusername/ft_printf) | Recreation of the standard printf function, including format parsing and variadic argument handling. | Parsing, Variadic Functions, String Manipulation, C |
-| [get_next_line](https://github.com/yourusername/get_next_line) | Function that reads and returns a file line by line while efficiently managing buffers and memory. | File I/O, Static Variables, Memory Management, C |
-| [pipex](https://github.com/yourusername/pipex) | Reproduction of Unix pipe behavior, handling processes, file descriptors, and command execution. | Processes, Pipes, Fork, Execve, UNIX Systems |
-| [minishell](https://github.com/yourusername/minishell) | Development of a simplified Unix shell capable of executing commands, handling redirections, pipes, and environment variables. | Shell Design, Process Management, Parsing, UNIX Internals |
+| [libft](https://github.com/willynga6/libft) | Custom implementation of essential C standard library functions, designed as a reusable foundation for future projects. | Memory Management, Data Structures, Modular Programming, C |
+| [ft_printf](https://github.com/willynga6/ft_printf) | Recreation of the standard printf function, including format parsing and variadic argument handling. | Parsing, Variadic Functions, String Manipulation, C |
+| [get_next_line](https://github.com/willynga6/Get_Next_line) | Function that reads and returns a file line by line while efficiently managing buffers and memory. | File I/O, Static Variables, Memory Management, C |
+| [pipex](https://github.com/willynga6/pipex) | Reproduction of Unix pipe behavior, handling processes, file descriptors, and command execution. | Processes, Pipes, Fork, Execve, UNIX Systems |
+| [minishell](https://github.com/willynga6/minishell) | Development of a simplified Unix shell capable of executing commands, handling redirections, pipes, and environment variables. | Shell Design, Process Management, Parsing, UNIX Internals |
 
 ---
 
@@ -70,8 +70,8 @@ Detailed documentation and source code are available in the corresponding reposi
 
 | Project | Description | Skills Demonstrated |
 |----------|------------|-------------------|
-| [push_swap](https://github.com/yourusername/push_swap) | Sorting algorithm project focused on minimizing operations and optimizing performance. | Algorithms, Complexity Analysis, Optimization, Data Structures |
-| [philosophers](https://github.com/yourusername/philosophers) | Implementation of the Dining Philosophers problem using threads and synchronization mechanisms. | Multithreading, Mutexes, Concurrency, Synchronization |
+| [push_swap](https://github.com/willynga6/push_swap) | Sorting algorithm project focused on minimizing operations and optimizing performance. | Algorithms, Complexity Analysis, Optimization, Data Structures |
+| [philosophers](https://github.com/willynga6/Philosopher) | Implementation of the Dining Philosophers problem using threads and synchronization mechanisms. | Multithreading, Mutexes, Concurrency, Synchronization |
 
 ---
 
@@ -79,8 +79,8 @@ Detailed documentation and source code are available in the corresponding reposi
 
 | Project | Description | Skills Demonstrated |
 |----------|------------|-------------------|
-| [netpractice](https://github.com/yourusername/netpractice) | Network configuration exercises covering IP addressing, routing, subnetting, and TCP/IP concepts. | Networking, TCP/IP, Routing, Subnetting |
-| [born2beroot](https://github.com/yourusername/born2beroot) | Deployment and configuration of a secure Linux server in a virtualized environment. | Linux Administration, Security Hardening, Virtualization, System Configuration |
+| [netpractice](https://github.com/willynga6/net_practice) | Network configuration exercises covering IP addressing, routing, subnetting, and TCP/IP concepts. | Networking, TCP/IP, Routing, Subnetting |
+| [born2beroot]| Deployment and configuration of a secure Linux server in a virtualized environment. | Linux Administration, Security Hardening, Virtualization, System Configuration |
 
 ---
 
@@ -88,7 +88,7 @@ Detailed documentation and source code are available in the corresponding reposi
 
 | Project | Description | Skills Demonstrated |
 |----------|------------|-------------------|
-| [so_long](https://github.com/yourusername/so_long) | Development of a small 2D game using a graphics library, including map parsing and event handling. | Event-Driven Programming, Graphics, Game Logic, C |
+| [so_long](https://github.com/willynga6/so_long) | Development of a small 2D game using a graphics library, including map parsing and event handling. | Event-Driven Programming, Graphics, Game Logic, C |
 
 ---
 
