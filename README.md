@@ -1,6 +1,6 @@
 # Hi there 👋 [Click here for the 🇫🇷 version of the README](README.fr.md)
 
-# Brief Bio
+# About Me
 
 I am **willynga6**, an IT student at [🇫🇷🗼42 Paris](https://42.fr/en/homepage/), specializing in cybersecurity.
 
