@@ -48,6 +48,10 @@ Je suis **willynga6**, étudiant en informatique à [🇫🇷🗼42 Paris](https
 </tr>
 </table>
 
+## Certifications
+
+- CompTIA Security+ (SY0-701) – Juin 2026
+
 ## Projets
 
 Les projets suivants ont été réalisés dans le cadre de mon cursus à 42 Paris. Ils portent sur la programmation système, les fondamentaux du génie logiciel, les réseaux, les systèmes d’exploitation, les algorithmes et la résolution de problèmes.
