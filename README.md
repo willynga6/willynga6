@@ -50,7 +50,7 @@ I am **willynga6**, an IT student at [🇫🇷🗼42 Paris](https://42.fr/en/hom
 
 ## Certifications
 
-- CompTIA Security+ (SY0-701) – June 2026
+- [CompTIA Security+ (SY0-701)](https://github.com/willynga6/Security_plus_notes)
 
 ## Projects
 
