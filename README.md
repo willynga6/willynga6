@@ -48,6 +48,10 @@ I am **willynga6**, an IT student at [🇫🇷🗼42 Paris](https://42.fr/en/hom
 </tr>
 </table>
 
+## Certifications
+
+- CompTIA Security+ (SY0-701) – June 2026
+
 ## Projects
 
 The following projects were completed as part of my curriculum at 42 Paris. They focus on systems programming, software engineering fundamentals, networking, operating systems, algorithms, and problem-solving.
