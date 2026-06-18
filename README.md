@@ -1,63 +1,63 @@
-# Hi there 👋 [Click here for the 🇫🇷 version of the README](README.fr.md)
+# Salut 👋 [Cliquez ici pour la version 🇬🇧 English du README](README.md)
 
-# About Me
+# À propos de moi
 
-I am **William Ngambi**, an IT student at **42 Paris**, specializing in **Cybersecurity**.
+Je suis **William Ngambi**, étudiant en informatique à **42 Paris**, spécialisé en **cybersécurité**.
 
-I am passionate about network security, traffic analysis, system administration, and security monitoring. My goal is to build a career in cybersecurity, focusing on Security Operations Centers (SOC), network security, and defensive security practices.
+Je suis passionné par la sécurité des réseaux, l’analyse de trafic, l’administration système et la supervision de la sécurité. Mon objectif est de construire une carrière dans la cybersécurité, avec une orientation vers les centres opérationnels de sécurité (SOC), la sécurité réseau et la défense des systèmes d'information.
 
-## Cybersecurity Profile
+## Profil Cybersécurité
 
-* CompTIA Security+ Certified
-* Student at 42 Paris
-* TryHackMe SOC Level 1 (98% Completed)
-* Linux & Network Security Enthusiast
-* Practical experience with Wireshark, Bettercap, VirtualBox, and Kali Linux
-* Strong understanding of TCP/IP, networking fundamentals, and security concepts
-* Currently pursuing a career in Cybersecurity and Security Operations
+* Certifié CompTIA Security+
+* Étudiant à 42 Paris
+* TryHackMe SOC Level 1 (98 % complété)
+* Passionné par Linux et la sécurité des réseaux
+* Expérience pratique avec Wireshark, Bettercap, VirtualBox et Kali Linux
+* Bonne maîtrise des fondamentaux TCP/IP, réseaux et sécurité
+* En recherche d'une alternance en cybersécurité
 
-## Skills
+## Compétences
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### Cybersecurity & Networking
+### Cybersécurité & Réseaux
 
-* Linux Administration
+* Administration Linux
 * TCP/IP
-* Routing & Switching Fundamentals
-* Network Diagnostics
+* Fondamentaux du Routage et de la Commutation
+* Diagnostic Réseau
 * SSH
-* VPN Concepts
-* Firewall Concepts
-* System Hardening
-* Log Analysis
+* Concepts VPN
+* Concepts de Pare-feu
+* Durcissement des Systèmes
+* Analyse de Logs
 * Wireshark
-* Virtualization
-* Security Monitoring
-* Packet Analysis
-* Incident Investigation
-* Security Fundamentals
+* Virtualisation
+* Supervision de la Sécurité
+* Analyse de Paquets
+* Investigation d'Incidents
+* Fondamentaux de la Cybersécurité
 
 </td>
 
 <td valign="top" width="50%">
 
-### Software Development
+### Développement Logiciel
 
 * C
 * C++
 * Python
 * Bash
 * Git
-* Algorithms
-* Data Structures
-* Object-Oriented Programming
-* Debugging
-* Software Testing
+* Algorithmes
+* Structures de Données
+* Programmation Orientée Objet
+* Débogage
+* Tests Logiciels
 * Makefiles
-* Unix Environment
+* Environnement Unix
 
 </td>
 </tr>
@@ -69,93 +69,93 @@ I am passionate about network security, traffic analysis, system administration,
 
 ---
 
-# Cybersecurity Labs & Projects
+# Laboratoires & Projets Cybersécurité
 
-Practical cybersecurity labs conducted in virtualized environments using Kali Linux, Debian, Wireshark, Bettercap, and industry-standard tools. These projects focus on network security, traffic analysis, attack simulation, and defensive validation.
+Laboratoires pratiques réalisés dans des environnements virtualisés utilisant Kali Linux, Debian, Wireshark, Bettercap et des outils professionnels. Ces travaux portent sur la sécurité réseau, l'analyse de trafic, la simulation d'attaques et la validation de mécanismes défensifs.
 
-## Network Security & Traffic Analysis
+## Sécurité Réseau & Analyse de Trafic
 
-| Project                      | Description                                                                                                                                                                                                    | Skills Demonstrated                                                         |
-| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| ARP Spoofing Lab             | Study of Address Resolution Protocol manipulation within a controlled laboratory environment. Analysis of ARP behavior, cache updates, and network communications.                                             | ARP, Ethernet, Network Analysis, Linux Networking, Wireshark                |
-| Man-in-the-Middle (MITM) Lab | Traffic interception study performed in an isolated virtual environment to understand packet forwarding, traffic flows, and network attack detection techniques.                                               | Network Security, Traffic Analysis, Packet Inspection, TCP/IP, Wireshark    |
-| Network Traffic Analysis     | Captured and analyzed network communications using Wireshark. Inspected Ethernet frames, ARP packets, TCP/IP communications, DNS requests, and application traffic to identify normal and suspicious behavior. | Wireshark, Packet Analysis, TCP/IP, DNS, Network Troubleshooting            |
-| Security Monitoring Lab      | Investigated network activity through packet captures and log analysis to identify indicators of compromise and abnormal network behavior.                                                                     | Traffic Analysis, Incident Investigation, Log Analysis, Security Monitoring |
-
----
-
-## Security Tools & Platforms
-
-| Platform / Tool       | Description                                                                                                                      |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| TryHackMe SOC Level 1 | Practical blue-team and SOC-oriented exercises covering network analysis, log analysis, threat detection, and incident response. |
-| Kali Linux            | Daily use for cybersecurity learning, networking labs, and security testing.                                                     |
-| Bettercap             | Used in controlled laboratory environments to study network protocols and traffic interception concepts.                         |
-| Wireshark             | Deep packet inspection and network troubleshooting.                                                                              |
-| VirtualBox            | Creation and management of isolated cybersecurity laboratory environments.                                                       |
-| OpenVPN               | Secure remote connectivity and VPN configuration.                                                                                |
-| Nmap                  | Network discovery, host enumeration, and service identification.                                                                 |
+| Projet                                 | Description                                                                                                                                                                | Compétences Démontrées                                                                    |
+| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| Laboratoire ARP Spoofing               | Étude du fonctionnement du protocole ARP dans un environnement contrôlé. Analyse des mécanismes de résolution d'adresses, du cache ARP et des communications réseau.       | ARP, Ethernet, Analyse Réseau, Réseaux Linux, Wireshark                                   |
+| Laboratoire Man-in-the-Middle (MITM)   | Étude de l'interception du trafic dans un environnement virtuel isolé afin de comprendre le transfert de paquets, les flux réseau et les méthodes de détection d'attaques. | Sécurité Réseau, Analyse de Trafic, Inspection de Paquets, TCP/IP, Wireshark              |
+| Analyse de Trafic Réseau               | Capture et analyse de communications réseau avec Wireshark. Étude des trames Ethernet, paquets ARP, communications TCP/IP, requêtes DNS et trafic applicatif.              | Wireshark, Analyse de Paquets, TCP/IP, DNS, Diagnostic Réseau                             |
+| Laboratoire de Supervision de Sécurité | Analyse d'activités réseau à travers des captures de trafic et l'étude de journaux afin d'identifier des comportements anormaux et des indicateurs de compromission.       | Analyse de Trafic, Investigation d'Incidents, Analyse de Logs, Supervision de la Sécurité |
 
 ---
 
-## Current Learning Path
+## Outils & Plateformes
+
+| Outil / Plateforme    | Description                                                                                                                            |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| TryHackMe SOC Level 1 | Exercices orientés Blue Team et SOC couvrant l'analyse réseau, l'analyse de logs, la détection de menaces et la réponse aux incidents. |
+| Kali Linux            | Utilisation quotidienne pour l'apprentissage de la cybersécurité, les laboratoires réseau et les tests de sécurité.                    |
+| Bettercap             | Utilisé en environnement contrôlé pour l'étude des protocoles réseau et de l'analyse du trafic.                                        |
+| Wireshark             | Inspection approfondie de paquets et diagnostic réseau.                                                                                |
+| VirtualBox            | Création et gestion d'environnements de laboratoire isolés.                                                                            |
+| OpenVPN               | Configuration et utilisation de connexions VPN sécurisées.                                                                             |
+| Nmap                  | Découverte réseau, énumération d'hôtes et identification de services.                                                                  |
+
+---
+
+## Parcours d'Apprentissage Actuel
 
 * CompTIA Security+
 * TryHackMe SOC Level 1
-* Network Security
-* Security Monitoring
-* Linux Administration
-* Incident Response Fundamentals
+* Sécurité Réseau
+* Supervision de la Sécurité
+* Administration Linux
+* Réponse aux Incidents
 * Junior Penetration Testing
-* Security Operations Center (SOC) Fundamentals
+* Fondamentaux des Security Operations Centers (SOC)
 
 ---
 
-# 42 School Projects
+# Projets de l'École 42
 
-The following projects were completed as part of my curriculum at 42 Paris. They focus on systems programming, software engineering fundamentals, networking, operating systems, algorithms, and problem-solving.
+Les projets suivants ont été réalisés dans le cadre du cursus de 42 Paris. Ils mettent l'accent sur la programmation système, le génie logiciel, les réseaux, les systèmes d'exploitation, les algorithmes et la résolution de problèmes.
 
-## Systems Programming
+## Programmation Système
 
-| Project                                                     | Description                                                                                                                    | Skills Demonstrated                                        |
-| ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| [libft](https://github.com/willynga6/libft)                 | Custom implementation of essential C standard library functions, designed as a reusable foundation for future projects.        | Memory Management, Data Structures, Modular Programming, C |
-| [ft_printf](https://github.com/willynga6/ft_printf)         | Recreation of the standard printf function, including format parsing and variadic argument handling.                           | Parsing, Variadic Functions, String Manipulation, C        |
-| [get_next_line](https://github.com/willynga6/Get_Next_line) | Function that reads and returns a file line by line while efficiently managing buffers and memory.                             | File I/O, Static Variables, Memory Management, C           |
-| [pipex](https://github.com/willynga6/pipex)                 | Reproduction of Unix pipe behavior, handling processes, file descriptors, and command execution.                               | Processes, Pipes, Fork, Execve, UNIX Systems               |
-| [minishell](https://github.com/willynga6/minishell)         | Development of a simplified Unix shell capable of executing commands, handling redirections, pipes, and environment variables. | Shell Design, Process Management, Parsing, UNIX Internals  |
-
----
-
-## Algorithms & Software Engineering
-
-| Project                                                  | Description                                                                                     | Skills Demonstrated                                            |
-| -------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [push_swap](https://github.com/willynga6/push_swap)      | Sorting algorithm project focused on minimizing operations and optimizing performance.          | Algorithms, Complexity Analysis, Optimization, Data Structures |
-| [philosophers](https://github.com/willynga6/Philosopher) | Implementation of the Dining Philosophers problem using threads and synchronization mechanisms. | Multithreading, Mutexes, Concurrency, Synchronization          |
+| Projet                                                      | Description                                                                                                                        | Compétences Démontrées                                             |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [libft](https://github.com/willynga6/libft)                 | Réimplémentation d'une bibliothèque standard en C servant de base à de nombreux projets du cursus.                                 | Gestion Mémoire, Structures de Données, Modularité, C              |
+| [ft_printf](https://github.com/willynga6/ft_printf)         | Reproduction de la fonction printf avec gestion des formats et des arguments variables.                                            | Parsing, Fonctions Variadiques, Manipulation de Chaînes, C         |
+| [get_next_line](https://github.com/willynga6/Get_Next_line) | Fonction permettant la lecture efficace d'un fichier ligne par ligne.                                                              | Entrées/Sorties Fichiers, Variables Statiques, Gestion Mémoire, C  |
+| [pipex](https://github.com/willynga6/pipex)                 | Reproduction du comportement des pipes Unix avec gestion des processus et des descripteurs de fichiers.                            | Processus, Pipes, Fork, Execve, Systèmes UNIX                      |
+| [minishell](https://github.com/willynga6/minishell)         | Développement d'un shell Unix simplifié capable d'exécuter des commandes, gérer les redirections et les variables d'environnement. | Conception de Shell, Gestion des Processus, Parsing, Internes UNIX |
 
 ---
 
-## Networking & System Administration
+## Algorithmes & Génie Logiciel
 
-| Project                                                  | Description                                                                                       | Skills Demonstrated                                                            |
-| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| [netpractice](https://github.com/willynga6/net_practice) | Network configuration exercises covering IP addressing, routing, subnetting, and TCP/IP concepts. | Networking, TCP/IP, Routing, Subnetting                                        |
-| [born2beroot](#)                                         | Deployment and configuration of a secure Linux server in a virtualized environment.               | Linux Administration, Security Hardening, Virtualization, System Configuration |
+| Projet                                                   | Description                                                                                                 | Compétences Démontrées                                                  |
+| -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [push_swap](https://github.com/willynga6/push_swap)      | Projet d'algorithmes de tri visant à minimiser le nombre d'opérations et optimiser les performances.        | Algorithmes, Analyse de Complexité, Optimisation, Structures de Données |
+| [philosophers](https://github.com/willynga6/Philosopher) | Implémentation du problème des philosophes avec utilisation de threads et de mécanismes de synchronisation. | Multithreading, Mutex, Concurrence, Synchronisation                     |
 
 ---
 
-## Graphics & Event-Driven Programming
+## Réseaux & Administration Système
 
-| Project                                         | Description                                                                                        | Skills Demonstrated                                           |
-| ----------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| [so_long](https://github.com/willynga6/so_long) | Development of a small 2D game using a graphics library, including map parsing and event handling. | Event-Driven Programming, Graphics Programming, Game Logic, C |
+| Projet                                                   | Description                                                                                          | Compétences Démontrées                                                                   |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [netpractice](https://github.com/willynga6/net_practice) | Exercices de configuration réseau couvrant l'adressage IP, le routage, le sous-réseautage et TCP/IP. | Réseaux, TCP/IP, Routage, Subnetting                                                     |
+| [born2beroot](#)                                         | Déploiement et sécurisation d'un serveur Linux dans un environnement virtualisé.                     | Administration Linux, Durcissement de la Sécurité, Virtualisation, Configuration Système |
+
+---
+
+## Graphismes & Programmation Événementielle
+
+| Projet                                          | Description                                                                   | Compétences Démontrées                                      |
+| ----------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| [so_long](https://github.com/willynga6/so_long) | Développement d'un jeu 2D avec gestion des événements et affichage graphique. | Programmation Événementielle, Graphismes, Logique de Jeu, C |
 
 ---
 
 ## Contact
 
-* GitHub: https://github.com/willynga6
-* LinkedIn: https://www.linkedin.com/in/william-ngambi-207049185
-* Email: [willingambi@protonmail.com](mailto:willingambi@protonmail.com)
-* CV: [Click here to view my CV](CV)
+* GitHub : https://github.com/willynga6
+* LinkedIn : https://www.linkedin.com/in/william-ngambi-207049185
+* Email : [willingambi@protonmail.com](mailto:willingambi@protonmail.com)
+* CV : [Cliquez ici pour consulter mon CV](CV)
