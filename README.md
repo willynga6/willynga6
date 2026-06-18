@@ -2,7 +2,19 @@
 
 # About Me
 
-I am **willynga6**, an IT student at [🇫🇷🗼42 Paris](https://42.fr/en/homepage/), specializing in cybersecurity.
+I am **William Ngambi**, an IT student at **42 Paris**, specializing in **Cybersecurity**.
+
+I am passionate about network security, traffic analysis, system administration, and security monitoring. My goal is to build a career in cybersecurity, focusing on Security Operations Centers (SOC), network security, and defensive security practices.
+
+## Cybersecurity Profile
+
+* CompTIA Security+ Certified
+* Student at 42 Paris
+* TryHackMe SOC Level 1 (98% Completed)
+* Linux & Network Security Enthusiast
+* Practical experience with Wireshark, Bettercap, VirtualBox, and Kali Linux
+* Strong understanding of TCP/IP, networking fundamentals, and security concepts
+* Currently pursuing a career in Cybersecurity and Security Operations
 
 ## Skills
 
@@ -23,6 +35,9 @@ I am **willynga6**, an IT student at [🇫🇷🗼42 Paris](https://42.fr/en/hom
 * Log Analysis
 * Wireshark
 * Virtualization
+* Security Monitoring
+* Packet Analysis
+* Incident Investigation
 * Security Fundamentals
 
 </td>
@@ -50,15 +65,57 @@ I am **willynga6**, an IT student at [🇫🇷🗼42 Paris](https://42.fr/en/hom
 
 ## Certifications
 
-- [CompTIA Security+ (SY0-701)](https://github.com/willynga6/Security_plus_notes)
+* [CompTIA Security+ (SY0-701)](https://github.com/willynga6/Security_plus_notes)
 
-## Projects
+---
+
+# Cybersecurity Labs & Projects
+
+Practical cybersecurity labs conducted in virtualized environments using Kali Linux, Debian, Wireshark, Bettercap, and industry-standard tools. These projects focus on network security, traffic analysis, attack simulation, and defensive validation.
+
+## Network Security & Traffic Analysis
+
+| Project                      | Description                                                                                                                                                                                                    | Skills Demonstrated                                                         |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| ARP Spoofing Lab             | Study of Address Resolution Protocol manipulation within a controlled laboratory environment. Analysis of ARP behavior, cache updates, and network communications.                                             | ARP, Ethernet, Network Analysis, Linux Networking, Wireshark                |
+| Man-in-the-Middle (MITM) Lab | Traffic interception study performed in an isolated virtual environment to understand packet forwarding, traffic flows, and network attack detection techniques.                                               | Network Security, Traffic Analysis, Packet Inspection, TCP/IP, Wireshark    |
+| Network Traffic Analysis     | Captured and analyzed network communications using Wireshark. Inspected Ethernet frames, ARP packets, TCP/IP communications, DNS requests, and application traffic to identify normal and suspicious behavior. | Wireshark, Packet Analysis, TCP/IP, DNS, Network Troubleshooting            |
+| Security Monitoring Lab      | Investigated network activity through packet captures and log analysis to identify indicators of compromise and abnormal network behavior.                                                                     | Traffic Analysis, Incident Investigation, Log Analysis, Security Monitoring |
+
+---
+
+## Security Tools & Platforms
+
+| Platform / Tool       | Description                                                                                                                      |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| TryHackMe SOC Level 1 | Practical blue-team and SOC-oriented exercises covering network analysis, log analysis, threat detection, and incident response. |
+| Kali Linux            | Daily use for cybersecurity learning, networking labs, and security testing.                                                     |
+| Bettercap             | Used in controlled laboratory environments to study network protocols and traffic interception concepts.                         |
+| Wireshark             | Deep packet inspection and network troubleshooting.                                                                              |
+| VirtualBox            | Creation and management of isolated cybersecurity laboratory environments.                                                       |
+| OpenVPN               | Secure remote connectivity and VPN configuration.                                                                                |
+| Nmap                  | Network discovery, host enumeration, and service identification.                                                                 |
+
+---
+
+## Current Learning Path
+
+* CompTIA Security+
+* TryHackMe SOC Level 1
+* Network Security
+* Security Monitoring
+* Linux Administration
+* Incident Response Fundamentals
+* Junior Penetration Testing
+* Security Operations Center (SOC) Fundamentals
+
+---
+
+# 42 School Projects
 
 The following projects were completed as part of my curriculum at 42 Paris. They focus on systems programming, software engineering fundamentals, networking, operating systems, algorithms, and problem-solving.
 
-Detailed documentation and source code are available in the corresponding repositories.
-
-### Systems Programming
+## Systems Programming
 
 | Project                                                     | Description                                                                                                                    | Skills Demonstrated                                        |
 | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
@@ -70,7 +127,7 @@ Detailed documentation and source code are available in the corresponding reposi
 
 ---
 
-### Algorithms & Software Engineering
+## Algorithms & Software Engineering
 
 | Project                                                  | Description                                                                                     | Skills Demonstrated                                            |
 | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
@@ -79,7 +136,7 @@ Detailed documentation and source code are available in the corresponding reposi
 
 ---
 
-### Networking & System Administration
+## Networking & System Administration
 
 | Project                                                  | Description                                                                                       | Skills Demonstrated                                                            |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
@@ -88,7 +145,7 @@ Detailed documentation and source code are available in the corresponding reposi
 
 ---
 
-### Graphics & Event-Driven Programming
+## Graphics & Event-Driven Programming
 
 | Project                                         | Description                                                                                        | Skills Demonstrated                                           |
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
